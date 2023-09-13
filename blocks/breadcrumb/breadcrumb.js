@@ -37,7 +37,7 @@ const createLink = (path) => {
 };
 
 export default async function decorate(block) {
-  const breadcrumb = createElement('nav', '', {
+  const breadcrumb = document.createElement('nav', '', {
     'aria-label': 'Breadcrumb',
   });
   block.innerHTML = '';

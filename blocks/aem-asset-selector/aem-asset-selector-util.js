@@ -62,7 +62,7 @@ const API_KEY = 'franklin';
 const REL_DOWNLOAD = 'http://ns.adobe.com/adobecloud/rel/download';
 const REL_RENDITIONS = 'http://ns.adobe.com/adobecloud/rel/rendition';
 // TODO: change this to Asset Link IMS client ID
-const IMS_CLIENT_ID = 'p66302-franklin';
+const IMS_CLIENT_ID = 'cm-p104909-e1035859-integration-0';
 const ASSET_SELECTOR_ID = 'asset-selector';
 const CLIPBOARD_SUPPORTED_BINARY_MIMETYPES = [
   'image/png',
